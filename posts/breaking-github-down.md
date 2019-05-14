@@ -7,8 +7,6 @@ slug = "breaking-github-down"
 title = "Breaking GitHub Down"
 +++
 
-# Breaking GitHub Down
-
 During my mid semester exams, one night I was getting bored so I decided to
 check how to break the most used code hosting website
 [GitHub](https://github.com/). I wrote a

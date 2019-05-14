@@ -7,8 +7,6 @@ slug = "writing-kickass-readmes"
 title = "Writing Kickass READMEs"
 +++
 
-# Writing Kickass READMEs
-
 Writing documentation for code is **extremely** important. Alas! I realized this
 late. Nevertheless, you should not make this mistake again.
 

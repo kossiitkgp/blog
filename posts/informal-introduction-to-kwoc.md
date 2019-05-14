@@ -7,8 +7,6 @@ slug = "informal-introduction-to-kwoc"
 title = "An informal introduction to KWoC"
 +++
 
-# An informal introduction to [KWoC](http://kwoc.kossiitkgp.org/)
-
 **Great People of tomorrow, every perfume starts with one ingredient but it is
 the last one that makes it come to life.**
 

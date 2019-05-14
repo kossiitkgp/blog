@@ -7,8 +7,6 @@ slug = "virtual-box-and-vagrant"
 title = "Learning command line basics and Virtual box"
 +++
 
-# Learning command line basics and Virtual box
-
 Hello people!
 
 So I was looking up for a course that would teach me the basics of linux command

@@ -7,8 +7,6 @@ slug = "git-cheatsheet"
 title = "Git Cheatsheet"
 +++
 
-# Git Cheatsheet
-
 ## What is Git?
 
 ![](https://cdn-images-1.medium.com/max/800/1*8xhLJt8Nlps8CDETPgO6lg.jpeg)

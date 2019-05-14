@@ -7,7 +7,6 @@ slug = "installing-python-in-windows"
 title = "Installing Python in Windows"
 +++
 
-# Installing Python in Windows
 
 This article deals with installing Python on Windows. Even though Python can be
 installed in Windows, it is recommended to use Linux, to use Python and develop
