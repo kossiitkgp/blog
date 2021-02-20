@@ -1,11 +1,11 @@
-+++
-categories = ["Engineering"]
-date = 2018-08-30T00:00:00+05:30
-description = ""
-draft = false
-slug = "installing-python-in-windows"
-title = "Installing Python in Windows"
-+++
+---
+categories: ["Engineering"]
+date: "2018-08-30T00:00:00+05:30"
+description: ""
+draft: false
+slug: "installing-python-in-windows"
+title: "Installing Python in Windows"
+---
 
 
 This article deals with installing Python on Windows. Even though Python can be

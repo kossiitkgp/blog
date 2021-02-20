@@ -1,11 +1,11 @@
-+++
-categories = ["Engineering"]
-date = 2017-03-14T00:00:00+05:30
-description = ""
-draft = false
-slug = "writing-kickass-readmes"
-title = "Writing Kickass READMEs"
-+++
+---
+categories: ["Engineering"]
+date: "2017-03-14T00:00:00+05:30"
+description: ""
+draft: false
+slug: "writing-kickass-readmes"
+title: "Writing Kickass READMEs"
+---
 
 Writing documentation for code is **extremely** important. Alas! I realized this
 late. Nevertheless, you should not make this mistake again.

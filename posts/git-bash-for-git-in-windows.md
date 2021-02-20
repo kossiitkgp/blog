@@ -1,11 +1,11 @@
-+++
-categories = ["Engineering"]
-date = 2018-10-05T00:00:00+05:30
-description = ""
-draft = false
-slug = "git-bash-in-windows"
-title = "Using Git Bash for git in Windows"
-+++
+---
+categories: ["Engineering"]
+date: "2018-10-05T00:00:00+05:30"
+description: ""
+draft: false
+slug: "git-bash-in-windows"
+title: "Using Git Bash for git in Windows"
+---
 
 This blog post helps in installing git bash, for using git in windows. Git for
 Windows provides a BASH emulation used to run Git from the command line. *NIX

@@ -1,11 +1,11 @@
-+++
-categories = ["Engineering"]
-date = 2017-11-14T00:00:00+05:30
-description = ""
-draft = false
-slug = "informal-introduction-to-kwoc"
-title = "An informal introduction to KWoC"
-+++
+---
+categories: ["Engineering"]
+date: "2017-11-14T00:00:00+05:30"
+description: ""
+draft: false
+slug: "informal-introduction-to-kwoc"
+title: "An informal introduction to KWoC"
+---
 
 **Great People of tomorrow, every perfume starts with one ingredient but it is
 the last one that makes it come to life.**

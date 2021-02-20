@@ -1,11 +1,11 @@
-+++
-categories = ["Engineering"]
-date = 2018-06-05T00:00:00+05:30
-description = ""
-draft = false
-slug = "virtual-box-and-vagrant"
-title = "Learning command line basics and Virtual box"
-+++
+---
+categories: ["Engineering"]
+date: "2018-06-05T00:00:00+05:30"
+description: ""
+draft: false
+slug: "virtual-box-and-vagrant"
+title: "Learning command line basics and Virtual box"
+---
 
 Hello people!
 

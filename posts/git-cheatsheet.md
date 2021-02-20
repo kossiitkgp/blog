@@ -1,11 +1,11 @@
-+++
-categories = ["Engineering"]
-date = 2018-06-21T00:00:00+05:30
-description = ""
-draft = false
-slug = "git-cheatsheet"
-title = "Git Cheatsheet"
-+++
+---
+categories: ["Engineering"]
+date: "2018-06-21T00:00:00+05:30"
+description: ""
+draft: false
+slug: "git-cheatsheet"
+title: "Git Cheatsheet"
+---
 
 ## What is Git?
 
